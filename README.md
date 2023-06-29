@@ -2,6 +2,14 @@
 
 This script uses Selenium with Chrome WebDriver to automate LinkedIn tasks, such as tracking the number of unread notifications and messages. It also sends an email notification with the updated information.
 
+
+
+YT Demo Link : https://youtu.be/WuD7dw39N40
+
+
+
+
+
 ## Prerequisites
 
 Make sure you have the following dependencies installed:
