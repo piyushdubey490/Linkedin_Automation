@@ -8,8 +8,6 @@ YT Demo Link : https://youtu.be/WuD7dw39N40
 
 
 
-
-
 ## Prerequisites
 
 Make sure you have the following dependencies installed:
@@ -45,7 +43,7 @@ Replace the placeholder values with your actual credentials.
 
 4. Run the script:
  ```shell
-python3 linkedin_automation.py
+python3 linkedin.py
  ```
 5. The script will open LinkedIn, log in using your credentials, extract the number of unread messages and notifications, compare them with the previous data stored in the Excel file, update the Excel file, and send an email with the updated information.
 
